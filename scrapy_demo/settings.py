@@ -6,7 +6,7 @@ SPIDER_MODULES = ['scrapy_demo.spiders']
 NEWSPIDER_MODULE = 'scrapy_demo.spiders'
 
 # Add Your ScrapeOps API Key
-SCRAPEOPS_API_KEY = 'YOUR_API_KEY'
+SCRAPEOPS_API_KEY = 'dc765cfb-2d7f-4501-b7e9-42fb874983fc'
 
 # Add In The ScrapeOps Extension
 EXTENSIONS = {
