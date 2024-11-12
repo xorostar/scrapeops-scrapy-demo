@@ -14,7 +14,7 @@ itemadapter==0.6.0
 itemloaders==1.0.4
 jmespath==1.0.1
 json5==0.9.8
-lxml==4.9.1
+lxml
 parsel==1.6.0
 Protego==0.2.1
 pyasn1==0.4.8
